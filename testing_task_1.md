@@ -30,6 +30,7 @@ end
 # uneccessary end
 end
 # below function outside of the class due to the previous errors
+# incorrect indentation
 def self.cards_total(cards)
 # no value assigned to total variable
   total
